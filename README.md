@@ -22,9 +22,9 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP
 ## Screenshots
 [Neural Network Final Model](assets/Neural_Network_Final_Model.png)
 [Neural Network Grid Search](assets/Neural_Network_Grid_Search.png)
-[XGBoost Final Model](assets/XGBoost_Final_Model.png)
+[XGBoost Final Model](assets/XGBoost_FinalModel.png)
 [XGBoost SHAP Analysis](assets/XGBoost_SHAP_Analysis.png)
-[auc_curve](assets/auc_curve.png)
+[XGBoost_Grid_Search](assets/XGBoost_Grid_Search.png)
 
 ## How to Run
 pip install -r requirements.txt
