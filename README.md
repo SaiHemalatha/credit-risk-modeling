@@ -20,8 +20,11 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP
 - SHAP analysis provided transparent interpretation of model decisions
 
 ## Screenshots
-![ROC Curve](assets/roc_curve.png)
-![SHAP Summary](assets/shap_summary.png)
+!Neural Network Final Model(assets/Neural Network Final Model.png)
+!Neural Network Grid Search(assets/Neural Network Grid Search.png)
+!XGBoost Final Model(assets/XGBoost Final Model.png)
+!XGBoost SHAP Analysis(assets/XGBoost SHAP Analysis.png)
+!auc_curve(assets/auc_curve.png)
 
 ## How to Run
 pip install -r requirements.txt
